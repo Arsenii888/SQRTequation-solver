@@ -2,7 +2,7 @@
 Solves square equations (without fractional part)
 #Use
 Use this in the code as shown below (the percentage of numbers is mandatory):
-```С++
+```C
 #include <stdio.h>
 #include <stdlib.h>
 #include "mt.h"
